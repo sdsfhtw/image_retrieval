@@ -1,9 +1,9 @@
 #!/usr/bin/env sh
 # 将图片转存到leveldb中
 #设定训练和测试数据list存储文件目录，编译好的caffe可执行文件目录
-EXAMPLE=/home/work/hangxiaoyang/Image_retrieval/caffe/examples
-DATA=/home/work/hangxiaoyang/Image_retrieval/caffe/dataset
-TOOLS=/home/work/hangxiaoyang/Image_retrieval/caffe/build/tools
+EXAMPLE=/home/work/hangxiaoyang/image_retrieval/caffe/examples
+DATA=/home/work/hangxiaoyang/image_retrieval/caffe/dataset
+TOOLS=/home/work/hangxiaoyang/image_retrieval/caffe/build/tools
 
 #设定训练和测试图片集所在根目录
 TRAIN_DATA_ROOT=/home/work/hanxiaoyang/pic/

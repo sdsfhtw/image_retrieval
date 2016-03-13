@@ -10,7 +10,7 @@
 import sys
 # change the following path to your compiled caffe python path
 # 请先编译caffe代码以及python接口部分，将如下的路径改为编译后的python路径
-sys.path.append("/home/work/hanxiaoyang/Image_retrieval/caffe/python")
+sys.path.append("/home/work/hanxiaoyang/image_retrieval/caffe/python")
 import caffe
 import numpy as np
 
